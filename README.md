@@ -1,5 +1,5 @@
-# 💫 About Me:
- Flutter Developer | Computer Science Student <br>  Building mobile applications with Flutter & Dart. Always learning and improving my skills.
+# 👋 Hi, I'm Ehab Mohamed :
+Flutter Developer | Computer Science Student <br>  Building mobile applications with Flutter & Dart. Always learning and improving my skills.
 
 
 ## 🌐 Socials:
